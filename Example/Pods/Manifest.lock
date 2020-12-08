@@ -1,0 +1,16 @@
+PODS:
+  - TestXiaocaoLogin (0.1.0)
+
+DEPENDENCIES:
+  - TestXiaocaoLogin (from `../`)
+
+EXTERNAL SOURCES:
+  TestXiaocaoLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestXiaocaoLogin: 587d6287325cf495ca13d82d462ce940e93cc128
+
+PODFILE CHECKSUM: e2c28c968f179ef348677687e20e6ad02c524695
+
+COCOAPODS: 1.9.3

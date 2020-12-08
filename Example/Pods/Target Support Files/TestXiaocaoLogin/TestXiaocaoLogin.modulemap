@@ -1,0 +1,6 @@
+framework module TestXiaocaoLogin {
+  umbrella header "TestXiaocaoLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
